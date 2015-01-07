@@ -17,9 +17,9 @@ import traceback
 import urllib.request
 
 # Settings
-group_id = "-64682296" # enter group id here, see https://vk.com/dev/utils.resolveScreenName
-album_id = "208971769" # album id, can be found in the URL after userid_
-user_id = "277044695" # userid, https://vk.com/dev/utils.resolveScreenName
+group_id = "-1" # enter group id here, see https://vk.com/dev/utils.resolveScreenName
+album_id = "" # album id, can be found in the URL after userid_
+user_id = "" # userid, https://vk.com/dev/utils.resolveScreenName
 watermark_text = "sample text" # text
 checkInterval = 60 # in seconds, wall checking interval
 
